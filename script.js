@@ -1,6 +1,6 @@
 function fibonacci(num) {
 // your code here
-	if(c==0) return 0;
+	if(num==0) return 0;
 	let prev = 0;
 	let curr = 1;
 
